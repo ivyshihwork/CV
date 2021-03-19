@@ -1,4 +1,4 @@
-<!-- DOCTYPE html>
+
 <html lang="en" dir="ltr">
 
 <head>
@@ -84,12 +84,6 @@
     <li>Reading - I love documentry and novels. Past few years I have read almost all fantasy novels online in mainland China.</li>
     <li>Gardening - It's ongoing for years even prior to pandemic, but I have added the common veggies to my garden ever since pandemic started.</li>
   </ol>
-  <hr>
-
-  <!-- <h3><a href="contact_me.html">Contact Me</a></h3> -->
-  <!-- script language="Javascript">
-    document.write("This page was last modified on: " + document.lastModified + "");
-  </SCRIPT>
 
 </body>
 
