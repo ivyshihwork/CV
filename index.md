@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
@@ -87,7 +87,7 @@
   <hr>
 
   <!-- <h3><a href="contact_me.html">Contact Me</a></h3> -->
-  <script language="Javascript">
+  <!-- script language="Javascript">
     document.write("This page was last modified on: " + document.lastModified + "");
   </SCRIPT>
 
