@@ -5,14 +5,14 @@
 }
 
 body {
-  background-color: honeydew ;
+/*   background-color: honeydew ; */
 }
 
-table,tr,td {
+/* table,tr,td {
   background-color: honeydew ;
   border: none
 }
-
+ */
 hr {
   border-color: #caf7e3;
   border-style: none;
