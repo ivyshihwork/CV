@@ -20,7 +20,7 @@
         <p>Here are my <a href="https://www.linkedin.com/in/ivy-shih-195657/">LinkedIn profie</a> and <a href="IvyShih_resumeV15Online.pdf">resume</a></p>
         <p>I am not a huge fan to publish things publically online. </p>
         <p>Since it has become the trend I have decided to start building a site with GitHub in 2021 for job searching.</p>
-        <p>This page will get updated frequently throughout of 2021, welcome to come back and visit at anytime.</p>
+        <p>This page will get updated frequently throughout of 2021, welcome to come back and visit.</p>
         <p>If you have any suggestion or would like to chat with me, feel free to <a href="mailto:ivyshih@yahoo.com">email</a> me at anytime.</p>
       </td>
     </tr>
