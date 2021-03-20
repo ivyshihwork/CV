@@ -4,6 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>Ivy Shih</title>
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
@@ -16,19 +17,23 @@
         <H1>Ivy Shih</H1>
         <p><em>A versitle engineer who loves to learn and can do anything.</em></p>
         <p>I am an engineer who has been taking up different jobs and resposnibilities as life takes me.</p>
-        <p>Here are my <a href="https://www.linkedin.com/in/ivy-shih-195657/">LinkedIn profie</a> and <a href="IvyShih_resumeV15Online.pdf">my resume</a></p>
-        <p>I am not a huge fan to publish things publically online but since it has become the trend I have decided to start building a site with GitHub in 2021 for job searching.</p>
+        <p>Here are my <a href="https://www.linkedin.com/in/ivy-shih-195657/">LinkedIn profie</a> and <a href="IvyShih_resumeV15Online.pdf">resume</a></p>
+        <p>I am not a huge fan to publish things publically online. </p>
+        <p>Since it has become the trend I have decided to start building a site with GitHub in 2021 for job searching.</p>
         <p>This page will get updated frequently throughout of 2021, welcome to come back and visit at anytime.</p>
         <p>If you have any suggestion or would like to chat with me, feel free to <a href="mailto:ivyshih@yahoo.com">email</a> me at anytime.</p>
       </td>
     </tr>
   </table>
   <hr>
+  <br>
+  <div class="container">
   <h3>Education</h3>
-  <h4>B.A. in Applied Mathematics with emphasis in Statistics from UC Berkeley</h4>
+  <p>B.A. in Applied Mathematics with emphasis in Statistics from UC Berkeley</p>
+  <br>
   <hr>
-  <h4>Technical Courses</h4>
-  <p>The following uDemy courses are not listed on my resume yet.</p>
+  <h3>Technical Courses</h3>
+  <p>The following uDemy courses are not listed on my resume.</p>
   <ul>
     <li>Jenkins</li>
     <ul>
@@ -56,6 +61,7 @@
       <li>Python Programming for programmers (UCSC) - 2017</li>
     </ul> -->
   </ul>
+  <br>
   <hr>
   <!-- <h3>Skills</h3>
   <table cellpadding=10>
@@ -84,6 +90,10 @@
     <li>Reading - I love documentry and novels. Past few years I have read almost all fantasy novels online in mainland China.</li>
     <li>Gardening - It's ongoing for years even prior to pandemic, but I have added the common veggies to my garden ever since pandemic started.</li>
   </ol>
+  <br>
+  <hr>
+
+  </div>
 
 </body>
 
