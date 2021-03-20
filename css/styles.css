@@ -7,6 +7,12 @@
 body {
   background-color: honeydew ;
 }
+
+table {
+  background-color: honeydew ;
+  border: none
+}
+
 hr {
   border-color: #caf7e3;
   border-style: none;
