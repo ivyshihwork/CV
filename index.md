@@ -27,7 +27,7 @@
   </table>
   <hr>
   <br>
-  <div class="container">
+<!--   <div class="container"> -->
   <h3>Education</h3>
   <p>B.A. in Applied Mathematics with emphasis in Statistics from UC Berkeley</p>
   <br>
@@ -93,7 +93,6 @@
   <br>
   <hr>
 
-  </div>
 
 </body>
 
