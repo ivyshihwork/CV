@@ -8,7 +8,7 @@ body {
   background-color: honeydew ;
 }
 
-table {
+table,tr,td {
   background-color: honeydew ;
   border: none
 }
